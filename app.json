@@ -1,0 +1,16 @@
+{
+  "name": "usm_app",
+  "description": "Add app.json file",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
