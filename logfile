@@ -1,0 +1,6 @@
+LOG:  database system was shut down at 2018-06-26 11:15:29 BST
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "db/usm_development" does not exist
+FATAL:  database "usm_development" does not exist
